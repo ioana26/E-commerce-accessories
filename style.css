@@ -1,0 +1,121 @@
+.container {
+  padding: 3% 15%;
+}
+
+.row {
+  padding: 10% 15%;
+}
+
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  height: 150px;
+}
+
+h1 {
+  padding-top: 35px;
+}
+
+.h {
+  font-size: 30;
+}
+
+hr.style1 {
+  width: 500px;
+  height: 10px;
+  border: 0;
+  box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+.btn-outline-success {
+  color: #808080;
+  border-color: #808080;
+}
+
+.indeximg1 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: block;
+  border: none;
+  margin: 0 auto;
+}
+
+.index1 {
+  height: 500px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+  border: solid 1px white;
+  width: 280px;
+  height: 50px;
+  position: absolute;
+  left: 38%;
+  top: 70%;
+  text-align: center;
+  font-family: Futura-Boo;
+  color: #fff;
+  margin: auto;
+}
+
+
+.col-lg-4 {
+  position: absolute;
+}
+
+.indeximg2 {
+  padding-top: 10px;
+  padding-bottom: 40px;
+  height: 500px;
+  display: block;
+  border: none;
+  margin: 0 auto;
+  position: relative;
+}
+
+.row {
+  overflow: hidden;
+  outline: none;
+  position: absolute;
+  left: 10%;
+  top: 120%;
+  text-align: center;
+  font-family: Comic sans ms;
+  margin: auto;
+}
+
+.footer-social {
+    margin: 35px 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  .flexbox .footer-social {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+  }
+
+  .fab {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  /* Add a hover effect if you want */
+  .fab:hover {
+    opacity: 0.7;
+  }
+
+ .li { display: inline;
+  }
